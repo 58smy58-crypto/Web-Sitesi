@@ -1,5 +1,5 @@
 # 🌟 **Modern Portfolyo Sitesi**  
-*HTML • CSS • JavaScript ile sıfırdan hazırlanmış, tamamen responsive ve etkileyici bir kişisel web sitesi.*
+*HTML • CSS • JavaScript ile sıfırdan hazırlanmış, tamamen kişisel ve etkileyici bir web sitesi.*
 
 ## 🚀 **Özellikler**  
 - ⚡ **Vanilla JS** ile framework'süz, hafif ve hızlı  
